@@ -95,18 +95,18 @@ The architecture can be easily modified within the code to experiment with diffe
    cd xray-disease-classification
    ```
 
-3. Start the training:
+3. open and run the jupyter notebooks:
 
    ```bash
-   python train_model.py
+   jupyter notebook
    ```
 
-4. Evaluate the model:
+4. Main notebooks :
 
    ```bash
-   python evaluate_model.py
+   pneumonia_detection.ipynb    # Main CNN model for pneumonia detection
+   DenseModel.ipynb             # DenseNet implementation for classification
    ```
-
 ### Customization
 
 - **Data Augmentation**: You can apply transformations like rotation, scaling, or flipping to augment the training data.
@@ -216,11 +216,6 @@ We welcome contributions to improve the project! Here's how you can help:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgements
 
