@@ -1,4 +1,4 @@
-# AI-Powered Disease Detection in X-Ray Images
+# Chest X-Ray Disease Classification using Deep Learning
 
 ## Overview
 
@@ -25,7 +25,7 @@ This project leverages deep learning techniques, particularly Convolutional Neur
 6. [Results](#results)
 7. [OpenVINO](#optimizing-tensorflow-models-with-openvino)
 8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ---
 
@@ -86,13 +86,13 @@ The architecture can be easily modified within the code to experiment with diffe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/osu/AI-Powered-Disease-Detection-in-X-Ray-Images.git
+   git clone https://github.com/MonkHacker1/xray-disease-classification.git
    ```
 
 2. Navigate into the directory:
 
    ```bash
-   cd AI-Powered-Disease-Detection-in-X-Ray-Images
+   cd xray-disease-classification
    ```
 
 3. Start the training:
