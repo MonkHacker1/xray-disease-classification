@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # AI-Powered Disease Detection in X-Ray Images
+=======
+# Chest X-Ray Disease Classification using Deep Learning
+>>>>>>> eea2dd4237e159b552954cf52875a9e7e8c05d35
 
 ## Overview
 
@@ -25,7 +29,11 @@ This project leverages deep learning techniques, particularly Convolutional Neur
 6. [Results](#results)
 7. [OpenVINO](#optimizing-tensorflow-models-with-openvino)
 8. [Contributing](#contributing)
+<<<<<<< HEAD
 9. [License](#license)
+=======
+
+>>>>>>> eea2dd4237e159b552954cf52875a9e7e8c05d35
 
 ---
 
@@ -86,13 +94,21 @@ The architecture can be easily modified within the code to experiment with diffe
 1. Clone the repository:
 
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/osu/AI-Powered-Disease-Detection-in-X-Ray-Images.git
+=======
+   git clone https://github.com/MonkHacker1/xray-disease-classification.git
+>>>>>>> eea2dd4237e159b552954cf52875a9e7e8c05d35
    ```
 
 2. Navigate into the directory:
 
    ```bash
+<<<<<<< HEAD
    cd AI-Powered-Disease-Detection-in-X-Ray-Images
+=======
+   cd xray-disease-classification
+>>>>>>> eea2dd4237e159b552954cf52875a9e7e8c05d35
    ```
 
 3. Start the training:
@@ -214,11 +230,14 @@ We welcome contributions to improve the project! Here's how you can help:
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request to the `main` branch.
 
+<<<<<<< HEAD
 ---
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+>>>>>>> eea2dd4237e159b552954cf52875a9e7e8c05d35
 
 ---
 
