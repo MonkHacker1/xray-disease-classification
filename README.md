@@ -92,7 +92,7 @@ The architecture can be easily modified within the code to experiment with diffe
 2. Navigate into the directory:
 
    ```bash
-   cd AI-Powered-Disease-Detection-in-X-Ray-Images
+   cd xray-disease-classification
    ```
 
 3. Start the training:
